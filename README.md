@@ -1,6 +1,4 @@
 # FaceTracking
-# Developed by: MANOJ G
-# REG NO:212222240060
 ## AIM:
 To implement a real-time face tracking AR system using MindAR and Three.js, where a 3D face mesh is overlaid with a texture (face mask) that moves dynamically according to the user’s face.
 
@@ -109,8 +107,9 @@ anchor.group.add(glasses.scene);
 
 ```
 ## OUTPUT:
-![WhatsApp Image 2025-11-12 at 10 35 09_a03d0380](https://github.com/user-attachments/assets/22360d8f-facb-42af-946d-b06a30fdbe98)
+![alt text](<Screenshot 2025-11-11 093219.png>)
 
+![alt text](image.png)
 
 ## RESULT:
 The system tracks the user’s face in real time and displays a face mask texture that moves along with the face.
